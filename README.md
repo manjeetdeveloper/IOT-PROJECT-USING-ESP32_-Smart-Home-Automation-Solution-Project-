@@ -110,7 +110,7 @@ https://www.fing.com/products/fing-app
 Have an project? DM me at 👇
 
 Drop a mail to: manjeetkyp24@gmail.com
-# Follow My LINKDIN  
+# Follow My Linkedin  
 https://www.linkedin.com/in/manjeetdeveloper2022/
 
 # Donation
