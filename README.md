@@ -1,11 +1,13 @@
-![Gif (1) (2)](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/e5541e27-a591-4a89-ae07-793f674c4263)
+![Screenshot 2024-05-13 103632](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/4042ec73-ebcb-4c1e-8df0-9f4595e3f393)
+
 
 $${\color{gray}Welcome} \space {\color{lightblue}To } \space {\color{lightgreen} \space IOT  \space Project \space Using  \space NodeMcU ESP2866}$$
 
 # $$\color{red} \space NodeMcu \space ESP2866 \space Based  \space Smart \space Vacuum  \space Cleaner Robot    \space Car \space Best  \space for \space IoT  \space Project$$ 
 
 # NodeMcu ESP2866 "based Smart Vacuum Cleaner Robotic Car Best for IoT Project"
-![Screenshot 2024-05-13 103632](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/4042ec73-ebcb-4c1e-8df0-9f4595e3f393)
+
+![final-min-min (1) (1)](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/d1fa506d-9fda-4a2f-b2ba-768af7ba00dd)
 
 
 ## $$\color{orange} \space Hardware  \space Requirements  \space and  \space Description$$
