@@ -1,4 +1,4 @@
- ![2024-05-1310-55-40-ezgif com-speed (1)](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/dd22800a-8215-496a-b7c4-66d40ed9445d)
+![Gif (1) (2)](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/e5541e27-a591-4a89-ae07-793f674c4263)
 
 $${\color{gray}Welcome} \space {\color{lightblue}To } \space {\color{lightgreen} \space IOT  \space Project \space Using  \space NodeMcU ESP2866}$$
 
