@@ -1,16 +1,16 @@
 ![maxresdefault](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/95d7fd4d-f749-46df-8f21-26e820bc31bb)
 
-$${\color{red}Welcome} \space {\color{lightblue}To } \space {\color{lightgreen} \space IOT  \space Project \space Using  \space Esp32}$$
+$${\color{gray}Welcome} \space {\color{lightblue}To } \space {\color{lightgreen} \space IOT  \space Project \space Using  \space NodeMcU ESP2866}$$
 
 
 
-# $$\color{magenta} \space Smart  \space Home \space hub: \space MicroPython-Based   \space Home \space Automation$$ 
+# $$\color{red} \space NodeMcu \space ESP2866 \space Based  \space Smart \space Vacuum  \space Cleaner Robot    \space Car \space Best  \space for \space IoT  \space Project$$ 
 
-# ESP32 "Smart Home hub: MicroPython-based home automation"
+# NodeMcu ESP2866 "based Smart Vacuum Cleaner Robotic Car Best for IoT Project"
+![Screenshot 2024-05-13 103632](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/4042ec73-ebcb-4c1e-8df0-9f4595e3f393)
 
-![img room light](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/d3886714-3e55-4307-ab85-a107a217b920)
 
-![blynk-app-showcase e01a2dc 880](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/01dd437d-10d4-4ef6-86a9-709874b5e6d6)
+
 
 
 ## $$\color{orange} \space Hardware  \space Requirements  \space and  \space Description$$
@@ -18,24 +18,23 @@ $${\color{red}Welcome} \space {\color{lightblue}To } \space {\color{lightgreen} 
  
 | $$\color{green}Components$$ | $$\color{red}Description$$ | $$\color{red}Image$$ |
 | --- | --- | --- |
-| ESP 32 | ESP32 is low cost and low power on chip microcontroller, - 18 Analog ToDigital Converter(ADC) Channels , -3 UART Pins, - 3 SPI Pins, -2 I2C Pins | ![esp32](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/7d128cc0-ab30-491a-b99f-817c8ec31182)|
-| 1 channel relay module | A 5V relay module is an electronicdevice that acts as a switch, allowing low-voltage control signals to control high-voltage circuits. |![Single-Channel-Relay-Module-Pinout](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/950c44fc-b354-4c76-ab15-5c2ded2bf358) |
-| Dht 11(1) | Dht 11 is a low cost sensor that senses temperature and humidity from environment and sends the signal to micro controller |   ![dht11-500x500](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/abb14026-fadc-4ccc-bb5e-907a15a3eab3)
-| MQ 5 (Gas sensor) | The Grove - Gas Sensor(MQ5) module is useful for gas leakage detection (in home and industry).  |![MQ5-Sensor-Pinout](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/7e1a6c00-bdf3-4164-9766-a79d7dc1317c)
-| IR Sensor | The IR transmitter continuously emits the IR light and the IR receiver keeps on checking for the reflected light. If the light gets reflected back by hitting any object in front it, the IR receiver receives this light |![IR-Sensor-1024x1024](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/0029d340-742c-41a1-a798-30f372cf0999)
-| Buzzer | A buzzer or beeper is an audio signaling device, which may be mechanical, electromechanical, or piezoelectric (piezo for short). Typical uses of buzzers and beepers include alarm devices, timers, train and confirmation of user input such as a mouse click or keystroke. | ![61BGvIZSb4L](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/2ef06875-b9f6-4b1d-b725-ba242d4de7f0)
-| Jumper Wires | To configure your ESP32 using MicroPython, first install the Micro Python firmware on the board. The ESP32 can be flashed with MicroPython firmware using programs. | ![download](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/20d626f2-ed72-4461-b8ae-9e944502a5ef)
-| Powersupply | A power supply is an electrical device that supplies electric power to an electrical load.  | ![power-supply](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/817d757f-b05c-457f-ae02-1da517940914)
-| Compiler : THony Python (Software) | Softwre To write the python code and run | ![Thonny_logo](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/5bccd15e-6719-4244-8459-d31bf37bfdf5)
+| ESP2866 NodeMCU | ESP2866 NodeMCU is low cost and low power on chip microcontroller, - 18 Analog ToDigital Converter(ADC) Channels , -3 UART Pins, - 3 SPI Pins, -2 I2C Pins | ![ESP2866 NodeMCU](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/7d128cc0-ab30-491a-b99f-817c8ec31182)|
+| L298N Motor Driver Module  | This L298N Based Motor Driver Module – 2A is a high power motor driver perfect for driving DC Motors and Stepper Motors. |![l298n](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/80d40326-bb3d-40e8-94a4-999ad5387eef)|
+| 12v DC Gear Motor | A gear motor is a motor designed with an integrated gearbox. Gear motors function as torque multipliers and speed reducers thus requiring less power to move a given load. The design of the gearbox structure, type of gears, lubrication and type of coupling affects its performance. |   ![Gear motor](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/1ebf7f1b-5cb3-4bcf-9a49-3a04bfb73458)
+| 12v (1.3Amp) Lithium Ion Battery | Used in Electronic Weighing Scales, Medical Equipments & Electronic Test Equipments, Emergency Lights & Rechargeable Fans, Communication Equipment.  | ![batery](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/28fe9929-0737-499f-84c7-54557840460d)|
+| HC-SR04 UltraSonic Sensor | HC-SR04 stands for High-Conductance ultrasonic sensor, which consists of a transmitter and receiver. The sensor measures how far things are without touching them, and it uses sound waves to get the measurements right. |![ultrasonic](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/34ecf350-5398-49da-8229-68dd856f3a45) |
+| Micro Servo Motor | SG90 is a popular micro servo motor commonly used in hobbyist and DIY projects. It is a small, low-cost servo motor that can rotate 180 degrees with a maximum torque of 1.8 kg-cm.  | ![SG90-Servo-Motor-Pinout](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/d65ac621-d040-43ae-9aac-204511708783)|
+| Compiler : Arduino IDE (Software) | Softwre To write the C++ code and run | ![images](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/2f8d615e-3516-4dd6-8a73-ad85d952bb35)
+
 
 
 #  MODES To Monitoring 
 
-| $$\color{green}BlynkApp$$ | $$\color{red}ThinkSpeak$$ | $$\color{red}Switch$$ |
+| $$\color{green}BlynkApp$$ | $$\color{red}ThinkSpeak$$ | $$\color{red}ThinkSpeak$$ |
 | --- | --- | --- |
-| ![blynk-app-showcase e01a2dc 880](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/a4a790e0-f200-4dda-83a7-0697dd15775f) | ![Humidity-Temperature-Monitoring-using-DHT11-NodeMCU-on-ThingSpeak](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/f099895e-15fd-4227-97cb-2f24bc594940)|  ![download (1)](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/c9c01a59-2e79-4f9b-bb72-182811f60ccc) | ![download (1)](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/7152fe7a-9dca-4a98-81e3-f9c83256aecf)
+| ![WhatsApp Image 2024-05-13 at 12 52 06_50392fd5](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/f2e95772-b63a-466d-a7b1-4ae2b721842a)|![Screenshot 2024-05-13 130053](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/7c895146-c6a8-40df-bd66-995831b84c90)| ![Screenshot 2024-05-13 130411](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/7ec30e5e-d544-492b-b81e-1daae92a9450)
+
  
-  - SWITCH ON/OFF MODE
   - Blynk App COntrol By Phone and Computer/Laptop(Cloud storage)
   - ThinkSpeak Also
 
@@ -43,35 +42,39 @@ $${\color{red}Welcome} \space {\color{lightblue}To } \space {\color{lightgreen} 
 
 
 # code👇👇👇👇: 
-https://drive.google.com/file/d/1J3YX_bkh_NWh5z-VGqQ0Aanh-sizcBoD/view?usp=sharing
+https://drive.google.com/file/d/1yq1LSxjtn2pypA1C1PO5RAgsa96rBgbY/view?usp=sharing
 
-# Reort Documentation👇👇👇👇: 
-https://drive.google.com/file/d/1rBXKTltFIk1jrOqgaXH0xXOvdPLuC-oF/view?usp=sharing
-
-# Patent👇👇👇👇:
-https://drive.google.com/file/d/1iDn8XAYd248QAK6UPv1nQANv1TbHmWF-/view?usp=sharing
+# Report Documentation👇👇👇👇: 
+https://drive.google.com/file/d/1VdVypHyeQjQyCTAfFOrmWCSanWREPOIP/view?usp=sharing
 
 
 # fritzing🔑🔑🔑🔑:
-![img2](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/c8e10ec9-316c-4153-aefa-217b47d9f9e8)
+![Screenshot 2024-05-13 105833](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/afd1be4a-2cf6-4826-a896-5a370bccdc3f)
+![Screenshot 2024-05-13 103728](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/89c7e0e0-87f1-450d-a120-3bafd570c352)
+
 
 
 
 # app🙋‍♂️🙋‍♂️🙋‍♂️:
-https://blynk.io/
+
+[Blynk](https://blynk.io/)
+#
+[ThinkSpeak](https://thingspeak.com/)
 
 
 
-This app makes you control your ESP's projects like Bulb 💡💡 Tv 📺🧮 Fan🔌🖨️ Printer etc  or any IOT applications using your mobile phone Blynk and ThinkSpeak WIFI.
+
+This app makes you control your Smart Vacuum Cleaner Robotic Car projects like move FordWard, BackWard , Left and Right , and Speed also using your mobile phone Blynk and ThinkSpeak WIFI.
 
 All the files (apk, circuit, program, codes) are all provided) :)
 
 
 Check the provided Schematic Fritzing for connections. 
-![Screenshot 2024-05-11 102940](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/65f79236-9432-4238-ab3a-cca137133f51)
+![Schematic_Obstacle-avoiding-robot_2022-10-27](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/9d2ef7d3-fd41-4fbf-8861-de5973e93e69)
 
 
-Labels(D0, D1, D2, D3, D4, etc) can be Rename. i.e Light1, LED1, Relay1, .
+
+Labels(D0, D1, D2, D3, D4) can be Rename. i.e Forward, Backward, Left, Right, and Speed .
 
 
 
@@ -79,28 +82,26 @@ Labels(D0, D1, D2, D3, D4, etc) can be Rename. i.e Light1, LED1, Relay1, .
 
 
 # Type your Router SSID and Password
-a. Upload and open the serial monitor and copy the ESP IP address to the app.
+a. Upload and open the serial monitor and copy the ESP2866 IP address to the app.
 
-
-
-b. alternatively you can use "FING" to search your IP address.
-https://www.fing.com/products/fing-app
-
-![blynk-app-showcase e01a2dc 880](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/417f951a-174a-43eb-a7b6-454d9735f955)
 
 #
-![NodeMCU-Blynk-Home-Automation-5](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/dcf48ca5-5803-4547-9764-7b1f024ab634)
+![Screenshot 2024-05-13 103728](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/0b356e35-7bd5-4699-a31d-f8adb8f46ef9)
 
 
-# Sample Connection of Relay-ESP control connection. 
-![download](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/faffd524-d3d4-4d35-b160-499be0fcabcc)
+# HC-SR04 Ultrasonic sensor Connection to Nodemcu:-
+![HC-SR04](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/417f4e32-710a-4c9a-9ba9-ed1a1785dd96)
+
+# Servo Motor Connection to Nodemcu:-
+![Servo (1)](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/50c7c784-a2f2-4550-941f-7db673c5bba3)
+
 
 
 # Team Members
 
-|  Manjeet Kumar |  Dilpreet Kaur | Divyanshu Vishwakwarma | Simran |
-| --- | --- | --- | ---| 
-| ![black suit (1)](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/56d9e320-9f40-4881-b2cd-87581ddc4853) manjeetkyp24@gmail.com| ![Screenshot 2024-05-11 110302](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/cc46031b-1a53-43b9-a443-8818b3bef9d9)dilpreet0604kaur@gmail.com| ![Screenshot 2024-05-11 111146](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/c0c3f938-8eff-4e1a-bd6b-5d63d373ca08) vishwakarmacom44@gmail.com| ![sim](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/90d9dcd4-b5cb-469e-8ec9-071cc544558c)simran1112002@gmail.com
+|  Manjeet Kumar |  Dilpreet Kaur | Simran |
+| --- | --- | ---| 
+| ![black suit (1)](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/56d9e320-9f40-4881-b2cd-87581ddc4853) manjeetkyp24@gmail.com| ![Screenshot 2024-05-11 110302](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/cc46031b-1a53-43b9-a443-8818b3bef9d9)dilpreet0604kaur@gmail.com| ![sim](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/90d9dcd4-b5cb-469e-8ec9-071cc544558c)simran1112002@gmail.com
 
 
 
