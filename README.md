@@ -1,35 +1,43 @@
-![Screenshot 2024-05-13 103632](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/4042ec73-ebcb-4c1e-8df0-9f4595e3f393)
+
+![maxresdefault](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_-Smart-Home-Automation-Solution-Project-/assets/98460132/36e8cdd9-4af3-472b-9c0a-5d81c054f08b)
 
 
-$${\color{gray}Welcome} \space {\color{lightblue}To } \space {\color{lightgreen} \space IOT  \space Project \space Using  \space NodeMcU ESP2866}$$
+$${\color{gray}Welcome} \space {\color{lightblue}To } \space {\color{lightgreen} \space IOT  \space Project \space Using  \space  ESP32}$$
 
-# $$\color{red} \space NodeMcu \space ESP2866 \space Based  \space Smart \space Vacuum  \space Cleaner Robot    \space Car \space Best  \space for \space IoT  \space Project$$ 
+# $$\color{red} \space ESP32 \space Based  \space Smart \space Home  \space Automation \space Solution  \space  IoT  \space Project$$ 
 
-# NodeMcu ESP2866 "based Smart Vacuum Cleaner Robotic Car Best for IoT Project"
+# IOT-PROJECT-USING-ESP32_-Smart-Home-Automation-Solution-Project
 
-![final-min-min (1) (1)](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/d1fa506d-9fda-4a2f-b2ba-768af7ba00dd)
+![img room light](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_-Smart-Home-Automation-Solution-Project-/assets/98460132/bf00fcbf-eda8-4d36-91b3-afa06ee45186)
 
 
 ## $$\color{orange} \space Hardware  \space Requirements  \space and  \space Description$$
 
  
 | $$\color{green}Components$$ | $$\color{red}Description$$ | $$\color{red}Image$$ |
-| --- | --- | --- |
-| ESP2866 NodeMCU | ESP2866 NodeMCU is low cost and low power on chip microcontroller, - 18 Analog ToDigital Converter(ADC) Channels , -3 UART Pins, - 3 SPI Pins, -2 I2C Pins | ![ESP2866 NodeMCU](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/7d128cc0-ab30-491a-b99f-817c8ec31182)|
-| L298N Motor Driver Module  | This L298N Based Motor Driver Module – 2A is a high power motor driver perfect for driving DC Motors and Stepper Motors. |![l298n](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/80d40326-bb3d-40e8-94a4-999ad5387eef)|
-| 12v DC Gear Motor | A gear motor is a motor designed with an integrated gearbox. Gear motors function as torque multipliers and speed reducers thus requiring less power to move a given load. The design of the gearbox structure, type of gears, lubrication and type of coupling affects its performance. |   ![Gear motor](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/1ebf7f1b-5cb3-4bcf-9a49-3a04bfb73458)
-| 12v (1.3Amp) Lithium Ion Battery | Used in Electronic Weighing Scales, Medical Equipments & Electronic Test Equipments, Emergency Lights & Rechargeable Fans, Communication Equipment.  | ![batery](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/28fe9929-0737-499f-84c7-54557840460d)|
-| HC-SR04 UltraSonic Sensor | HC-SR04 stands for High-Conductance ultrasonic sensor, which consists of a transmitter and receiver. The sensor measures how far things are without touching them, and it uses sound waves to get the measurements right. |![ultrasonic](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/34ecf350-5398-49da-8229-68dd856f3a45) |
-| Micro Servo Motor | SG90 is a popular micro servo motor commonly used in hobbyist and DIY projects. It is a small, low-cost servo motor that can rotate 180 degrees with a maximum torque of 1.8 kg-cm.  | ![SG90-Servo-Motor-Pinout](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/d65ac621-d040-43ae-9aac-204511708783)|
-| Compiler : Arduino IDE (Software) | Softwre To write the C++ code and run | ![images](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/2f8d615e-3516-4dd6-8a73-ad85d952bb35)
+| --- | --- |--- |
+|esp32  | ESP32 is low cost and low power on chip microcontroller which is developed by Espress-if , it haswireless Bluetooth and wi-fi capabilities. | ![esp32](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_-Smart-Home-Automation-Solution-Project-/assets/98460132/0bf2ad43-fed4-479e-8015-4bd374fe1d1a)
 
+|1 channel relay module  |  A 5V relay module is an electronicdevice that acts as a switch, allowing low-voltage control signals to control high-voltage circuits. | ![Single-Channel-Relay-Module-Pinout](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_-Smart-Home-Automation-Solution-Project-/assets/98460132/9e6bb0a4-8fef-4fb9-88e8-3501c41e5e0a)
+|Dht 11(1) |   Dht 11 is a low cost sensor that sensestemperature and humidity from environment and sends thesignal to micro controller.to measure surrounding air sensoruses thermistor and capacitive humidity sensor.   |
 
+|MQ 5 (Gas sensor) |  The Grove - Gas Sensor(MQ5) module is useful for gas leakagedetection (in home and industry).  |
+
+|IR Sensor   | The IR transmitter continuously emits the IR light andthe IR receiver keeps on checking for the reflected light.  |
+
+|Buzzer   |    |
+
+|Jumper wires |     |
+
+|Powersupply |  |
+
+| Complier : Thonny Python |   |
 
 #  MODES To Monitoring 
 
-| $$\color{green}BlynkApp$$ | $$\color{red}ThinkSpeak$$ | $$\color{red}ThinkSpeak$$ |
+| $$\color{green}BlynkApp$$ | $$\color{red}ThinkSpeak$$ | $$\color{red}Switch$$ |
 | --- | --- | --- |
-| ![WhatsApp Image 2024-05-13 at 12 52 06_50392fd5](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/f2e95772-b63a-466d-a7b1-4ae2b721842a)|![Screenshot 2024-05-13 130053](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/7c895146-c6a8-40df-bd66-995831b84c90)| ![Screenshot 2024-05-13 130411](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/7ec30e5e-d544-492b-b81e-1daae92a9450)
+
 
  
   - Blynk App COntrol By Phone and Computer/Laptop(Cloud storage)
