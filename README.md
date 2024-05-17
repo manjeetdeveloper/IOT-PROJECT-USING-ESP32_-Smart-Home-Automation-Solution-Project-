@@ -38,6 +38,8 @@ $${\color{gray}Welcome} \space {\color{lightblue}To } \space {\color{lightgreen}
 | $$\color{green}BlynkApp$$ | $$\color{red}ThinkSpeak$$ | $$\color{red}Switch$$ |
 | --- | --- | --- |
 
+| ![11541426](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_-Smart-Home-Automation-Solution-Project-/assets/98460132/d3a74b11-472a-463a-a872-a7dbeb456529) |  | 
+
 
  
   - Blynk App COntrol By Phone and Computer/Laptop(Cloud storage)
@@ -54,8 +56,9 @@ https://drive.google.com/file/d/1VdVypHyeQjQyCTAfFOrmWCSanWREPOIP/view?usp=shari
 
 
 # fritzing🔑🔑🔑🔑:
-![Screenshot 2024-05-13 105833](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/afd1be4a-2cf6-4826-a896-5a370bccdc3f)
-![Screenshot 2024-05-13 103728](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/89c7e0e0-87f1-450d-a120-3bafd570c352)
+![download](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_-Smart-Home-Automation-Solution-Project-/assets/98460132/b94e8577-b96e-42db-93ef-1654b068b545)
+![Home-to-Automation](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_-Smart-Home-Automation-Solution-Project-/assets/98460132/b3791c88-22d6-4023-ac0f-c8c058d843f5)
+
 
 
 
@@ -75,11 +78,12 @@ All the files (apk, circuit, program, codes) are all provided) :)
 
 
 Check the provided Schematic Fritzing for connections. 
-![Schematic_Obstacle-avoiding-robot_2022-10-27](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/9d2ef7d3-fd41-4fbf-8861-de5973e93e69)
+
 
 
 
 Labels(D0, D1, D2, D3, D4) can be Rename. i.e Forward, Backward, Left, Right, and Speed .
+![HC-SR04](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_-Smart-Home-Automation-Solution-Project-/assets/98460132/32b5f4f2-f181-45ee-80e8-9e287b77b535)
 
 
 
@@ -91,14 +95,11 @@ a. Upload and open the serial monitor and copy the ESP2866 IP address to the app
 
 
 #
-![Screenshot 2024-05-13 103728](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/0b356e35-7bd5-4699-a31d-f8adb8f46ef9)
-
-
 # HC-SR04 Ultrasonic sensor Connection to Nodemcu:-
-![HC-SR04](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/417f4e32-710a-4c9a-9ba9-ed1a1785dd96)
+![HC-SR04](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_-Smart-Home-Automation-Solution-Project-/assets/98460132/a1854992-3c4b-4b18-9489-189ab78f9a2d)
 
 # Servo Motor Connection to Nodemcu:-
-![Servo (1)](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_SMART-HOME-AUTOMATION-/assets/98460132/50c7c784-a2f2-4550-941f-7db673c5bba3)
+![Servo (1)](https://github.com/manjeetdeveloper/IOT-PROJECT-USING-ESP32_-Smart-Home-Automation-Solution-Project-/assets/98460132/bbb016f9-2ca4-4da6-9958-cadae2c36ec7)
 
 
 
